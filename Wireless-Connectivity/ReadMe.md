@@ -1,6 +1,9 @@
 # Wireless-connectivity
 
-<a target="_blank" href="https://www.everythingrf.com">Everything RF</a>
+<a target="_blank" href="https://www.everythingrf.com">Everything RF - </a>
+<a target="_blank" href="https://www.everythingrf.com/company-directory">Company Directory - </a>
+<a target="_blank" href="https://www.everythingrf.com/directory/wireless-soc-s">Wireless SOC - </a>
+<a target="_blank" href="https://www.everythingrf.com/directory/rf-modules">RF Modules</a>
 
 <a target="_blank" href="http://www.radio-electronics.com/info/wireless/">Radio electronics </a>
 
