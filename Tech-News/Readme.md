@@ -1,0 +1,15 @@
+http://www.in.techradar.com/
+http://in.pcmag.com/
+http://www.tomshardware.com/
+https://yourstory.com/partner-events/
+http://www.trustedreviews.com/
+http://www.gadgetsnow.com/
+http://mashable.com/
+https://techcrunch.com/
+https://www.engadget.com/
+http://www.lifehacker.co.in/
+http://www.businessinsider.in/
+https://problogger.com/
+https://smartblogger.com/
+http://www.extremetech.com/
+http://www.newtechnology.co.in/
