@@ -1,15 +1,33 @@
-http://www.in.techradar.com/
-http://in.pcmag.com/
-http://www.tomshardware.com/
-https://yourstory.com/partner-events/
-http://www.trustedreviews.com/
-http://www.gadgetsnow.com/
-http://mashable.com/
-https://techcrunch.com/
-https://www.engadget.com/
-http://www.lifehacker.co.in/
-http://www.businessinsider.in/
-https://problogger.com/
-https://smartblogger.com/
-http://www.extremetech.com/
-http://www.newtechnology.co.in/
+# On Youtube
+<a href="https://www.youtube.com/channel/UCZOWiLLJ2QzS4Z0g7L1mtgw/playlists">Sample</a>
+<a href="https://www.youtube.com/user/19dragon98/playlists">Sample</a>
+<a href="https://www.youtube.com/user/unboxtherapy/playlists">Sample</a>
+<a href="https://www.youtube.com/channel/UCfeLAcPMa2JhKgxvfEEC3hg/playlists">Sample</a>
+<a href="https://www.youtube.com/channel/UCkCuSXCy9PzV2XDl5dE1iPg/playlists">Sample</a>
+<a href="https://www.youtube.com/channel/UC2g9FZIQDzV_TgaHRsl64Rg">Sample</a>
+<a href="https://www.youtube.com/channel/UCZOWiLLJ2QzS4Z0g7L1mtgw">Sample</a>
+<a href="https://www.youtube.com/channel/UCWBES10n3A9sDN5HxVrrNuA">Sample</a>
+<a href="https://www.youtube.com/channel/UCfeLAcPMa2JhKgxvfEEC3hg">Sample</a>
+<a href="https://www.youtube.com/user/EnzoShelby67">Sample</a>
+<a href="https://www.youtube.com/user/19dragon98">Sample</a>
+<a href="https://www.youtube.com/channel/UCftgtvJuqbj5ZK-MuuxKhMw">Sample</a>
+<a href="https://www.youtube.com/channel/UCEdcgjfC2yZfRrX0Y2yW0hQ">Sample</a>
+<a href="https://www.youtube.com/channel/UCkCuSXCy9PzV2XDl5dE1iPg">Sample</a>
+<a href="https://www.youtube.com/channel/UCdHME-0O5eDGjitZ6XRFB8Q">Sample</a>
+
+# Blogs
+<a href="http://www.in.techradar.com/">Sample</a>
+<a href="http://in.pcmag.com/">Sample</a>
+<a href="http://www.tomshardware.com/">Sample</a>
+<a href="https://yourstory.com/partner-events/">Sample</a>
+<a href="http://www.trustedreviews.com/">Sample</a>
+<a href="http://www.gadgetsnow.com/">Sample</a>
+<a href="http://mashable.com/">Sample</a>
+<a href="https://techcrunch.com/">Sample</a>
+<a href="https://www.engadget.com/">Sample</a>
+<a href="http://www.lifehacker.co.in/">Sample</a>
+<a href="http://www.businessinsider.in/">Sample</a>
+<a href="https://problogger.com/">Sample</a>
+<a href="https://smartblogger.com/">Sample</a>
+<a href="http://www.extremetech.com/">Sample</a>
+<a href="http://www.newtechnology.co.in/">Sample</a>
