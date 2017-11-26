@@ -1,0 +1,26 @@
+
+start http://digistump.com/wiki/digispark
+start http://land-boards.com/blwiki/index.php
+start https://www.domoticz.com/wiki/Domoticz_Wiki_Manual 
+start https://www.eevblog.com/wiki/index.php
+start http://www.electrodragon.com/w/Main_Page 
+start http://www.elecfreaks.com/wiki/index.php
+start https://www.elecrow.com/wiki/index.php
+start https://wiki.eprolabs.com/index.php
+start https://www.exploreembedded.com/wiki 
+start http://www.geeetech.com/wiki/index.php
+start http://www.geekonfire.com/wiki/index.php
+start http://wiki.seeed.cc/Grove_System
+start http://internetofhomethings.com/homethings
+start https://www.itead.cc/wiki/Main_Page
+start http://www.letscontrolit.com/wiki/index.php/Main_Page
+start http://linksprite.com/wiki/index.php5?title=Products-description
+start http://www.liquidware.com/wikipages
+start http://wiki.micropython.org/Home
+start https://www.olimex.com/wiki/Main_Page
+start http://pcb.ui3g.com
+start https://www.rhydolabz.com/wiki
+start http://www.rudiswiki.de/wiki/CategoryAVR 
+start https://www.sunfounder.com/wiki/index.php
+start http://processors.wiki.ti.com/index.php/Main_Page
+start http://www.waveshare.com/wiki/Main_Page 
