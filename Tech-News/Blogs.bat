@@ -1,0 +1,15 @@
+start http://www.in.techradar.com/
+start http://in.pcmag.com/
+start http://www.tomshardware.com/
+start https://yourstory.com/partner-events/
+start http://www.trustedreviews.com/
+start http://www.gadgetsnow.com/
+start http://mashable.com/
+start https://techcrunch.com/
+start https://www.engadget.com/
+start http://www.lifehacker.co.in/
+start http://www.businessinsider.in/
+start https://problogger.com/
+start https://smartblogger.com/
+start http://www.extremetech.com/
+start http://www.newtechnology.co.in/
