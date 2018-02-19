@@ -8,9 +8,13 @@ http://www.batterybhai.com/
 
 https://www.everyonechoice.com/
 
+http://lightorati.in
+
 # Relay Products
 
 https://store.ncd.io/
+
+http://boardtronics.com/
 
 https://video.ncd.io/
 
@@ -21,3 +25,4 @@ http://relaypros.com/
 https://numato.com/
 
 http://tinyosshop.com/
+
